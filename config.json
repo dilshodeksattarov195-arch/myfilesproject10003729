@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendrocess",
+        "uuid": 5750118,
+        "checksum": "wpx1sm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
